@@ -2,7 +2,7 @@
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
+-- Host: 217.182.187.103:3357
 -- Czas generowania: 06 Cze 2019, 01:44
 -- Wersja serwera: 10.1.38-MariaDB
 -- Wersja PHP: 7.3.4
